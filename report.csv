@@ -1,0 +1,701 @@
+File Name,Input Parameters,Expected Result,Actual Result,Status,AI Rate
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,38 13 72 18 81 16 48 27 18 84 53 53,84,,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,14 83 50 47 7 44 38 11 99 2,14 7,14,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,42,42,42,Passed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,94 31 29 53 24 72 49 84,49 84,,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,42 9 56 68 88 51 30 80 93 71 88 52 16 77 97,42 56 77,42,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,82 39 42 77 63 62 66 44 8 12 74 76 3 5 17,42 77 63,,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,49 49 49 49 49 49 49 49 49 49,49 49 49 49 49 49 49 49 49 49,49,Passed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,14 94 19 98 6 46 38 44 66 86 70 64 91 16,14 98 91,14,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,72 89 55 83 70 40 21 63 40 47 34 49,21 63 49,,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Denys_11_18.12.2023_05.10.43_1265_A_1.py,30 83 34 23 76 34 3 81 14 51 98,14 98,,Failed,"8
+
+The code efficiently filters the input array and prints out the numbers that are divisible by 7 but not divisible by 5. The list comprehension used to convert the input string to an integer array is concise and effective. The use of the 'end' parameter in the print statement ensures that the numbers are printed on the same line. The code could benefit from adding comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,38 13 72 18 81 16 48 27 18 84 53 53,84,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,14 83 50 47 7 44 38 11 99 2,14 7,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,42,42,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,94 31 29 53 24 72 49 84,49 84,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,42 9 56 68 88 51 30 80 93 71 88 52 16 77 97,42 56 77,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,82 39 42 77 63 62 66 44 8 12 74 76 3 5 17,42 77 63,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,49 49 49 49 49 49 49 49 49 49,49 49 49 49 49 49 49 49 49 49,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,14 94 19 98 6 46 38 44 66 86 70 64 91 16,14 98 91,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,72 89 55 83 70 40 21 63 40 47 34 49,21 63 49,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\Grade_11_18.12.2023_05.12.15_1267_A_1.py,30 83 34 23 76 34 3 81 14 51 98,14 98,7 14 21 28 42 49 56 63 77 84 91 98,Passed,"8
+
+The code efficiently creates a list of numbers from 1 to 100 and then filters it to only include numbers that are divisible by 7 but not divisible by 5. The result is printed as a string with each number separated by a space. The code uses a list comprehension to achieve this in a concise manner."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,38 13 72 18 81 16 48 27 18 84 53 53,84,,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,14 83 50 47 7 44 38 11 99 2,14 7,14,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,42,42,42,Passed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,94 31 29 53 24 72 49 84,49 84,,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,42 9 56 68 88 51 30 80 93 71 88 52 16 77 97,42 56 77,42,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,82 39 42 77 63 62 66 44 8 12 74 76 3 5 17,42 77 63,,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,49 49 49 49 49 49 49 49 49 49,49 49 49 49 49 49 49 49 49 49,49,Passed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,14 94 19 98 6 46 38 44 66 86 70 64 91 16,14 98 91,14,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,72 89 55 83 70 40 21 63 40 47 34 49,21 63 49,,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\LightExS_11_18.12.2023_05.57.32_1283_A_1.py,30 83 34 23 76 34 3 81 14 51 98,14 98,,Failed,"8
+
+The code efficiently splits the input by space and converts each element to an integer. It then checks if each integer is divisible by 7 but not divisible by 5, and appends the valid integers to a list. Finally, it joins the elements of the list into a string separated by spaces and prints the result. The code is concise and follows a clear logic. However, it could benefit from adding comments to explain the purpose and functionality of each step."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,38 13 72 18 81 16 48 27 18 84 53 53,84,,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,14 83 50 47 7 44 38 11 99 2,14 7,14,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,42,42,42,Passed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,94 31 29 53 24 72 49 84,49 84,,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,42 9 56 68 88 51 30 80 93 71 88 52 16 77 97,42 56 77,42,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,82 39 42 77 63 62 66 44 8 12 74 76 3 5 17,42 77 63,,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,49 49 49 49 49 49 49 49 49 49,49 49 49 49 49 49 49 49 49 49,49,Passed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,14 94 19 98 6 46 38 44 66 86 70 64 91 16,14 98 91,14,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,72 89 55 83 70 40 21 63 40 47 34 49,21 63 49,,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\xeanoff_11_18.12.2023_05.28.34_1276_A_1.py,30 83 34 23 76 34 3 81 14 51 98,14 98,,Failed,"8
+
+The code uses list comprehension to read integers from input. It then checks each number in the list to see if it is divisible by 7 but not divisible by 5. If a number satisfies this condition, it is added to the result string. Finally, the code removes the trailing space from the result string before printing it. The code is concise and efficient, but it could benefit from some comments to explain its purpose and logic."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,38 13 72 18 81 16 48 27 18 84 53 53,84,,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,14 83 50 47 7 44 38 11 99 2,14 7,14,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,42,42,42,Passed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,94 31 29 53 24 72 49 84,49 84,,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,42 9 56 68 88 51 30 80 93 71 88 52 16 77 97,42 56 77,42,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,82 39 42 77 63 62 66 44 8 12 74 76 3 5 17,42 77 63,,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,49 49 49 49 49 49 49 49 49 49,49 49 49 49 49 49 49 49 49 49,49,Passed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,14 94 19 98 6 46 38 44 66 86 70 64 91 16,14 98 91,14,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,72 89 55 83 70 40 21 63 40 47 34 49,21 63 49,,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\A\Solutions\YouSwe_11_18.12.2023_05.12.13_1266_A_1.py,30 83 34 23 76 34 3 81 14 51 98,14 98,,Failed,"8
+
+The code effectively filters a list of numbers entered by the user, selecting only those that are divisible by 7 but not divisible by 5. The filtered numbers are then printed as a string, separated by spaces. The code uses list comprehensions and built-in functions like `map` and `join` to achieve this in a concise manner. Overall, the code is clear and efficient. However, it could benefit from some additional comments to explain its purpose and functionality."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,"Ebiil, jv kxjb fp Slsx. F ifsb fk Ilkalk","Hello, my name is Vova. I live in London","Byffi,",Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,QQ5%QQ	,TT5%TT,NN5%NN,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,****,****,****,Passed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,1+2=3,1+2=3,1+2=3,Passed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,u+2v=4,x+2y=4,r+2s=4,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,x yllh lo lqebo tofqqbk lo mofkqba tloh,a book or other written or printed work,u,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,"Qbuq jbppxdfkd, lo qbuqfkd, fp qeb xzq","Text messaging, or texting, is the act",Nyrn,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,"Ebiil2, Yvb1!","Hello2, Bye1!","Byffi2,",Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,N1x2W3b4A@z!Z$o*CS,Q1a2Z3e4D@c!C$r*FV,K1u2T3y4X@w!W$l*ZP,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Denys_11_18.12.2023_05.49.20_1280_B_1.py,Rd%,Ug%,Oa%,Failed,"8
+
+The code effectively replaces non-alphabetic characters with themselves and performs a Caesar cipher shift on alphabetic characters based on their case. The logic is clear and the code is concise. However, the variable names could be more descriptive to enhance readability."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,"Ebiil, jv kxjb fp Slsx. F ifsb fk Ilkalk","Hello, my name is Vova. I live in London",Byffi,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,QQ5%QQ	,TT5%TT,NNNN,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,****,****,,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,1+2=3,1+2=3,,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,u+2v=4,x+2y=4,rs,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,x yllh lo lqebo tofqqbk lo mofkqba tloh,a book or other written or printed work,u,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,"Qbuq jbppxdfkd, lo qbuqfkd, fp qeb xzq","Text messaging, or texting, is the act",Nyrn,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,"Ebiil2, Yvb1!","Hello2, Bye1!",Byffi,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,N1x2W3b4A@z!Z$o*CS,Q1a2Z3e4D@c!C$r*FV,KuTyXwWlZP,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\Grade_11_18.12.2023_05.16.28_1270_B_1.py,Rd%,Ug%,Oa,Failed,"7
+
+The code effectively takes an input string, shifts each letter in the string three positions back in the alphabet (wrapping around if necessary), and prints the resulting string. 
+
+However, the code could be improved by using list comprehension instead of manually appending characters to the `res` list. Additionally, there is no error handling for characters that are not lowercase or uppercase letters."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,"Ebiil, jv kxjb fp Slsx. F ifsb fk Ilkalk","Hello, my name is Vova. I live in London","Byffi,",Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,QQ5%QQ	,TT5%TT,NN5%NN,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,****,****,****,Passed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,1+2=3,1+2=3,1+2=3,Passed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,u+2v=4,x+2y=4,r+2s=4,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,x yllh lo lqebo tofqqbk lo mofkqba tloh,a book or other written or printed work,u,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,"Qbuq jbppxdfkd, lo qbuqfkd, fp qeb xzq","Text messaging, or texting, is the act",Nyrn,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,"Ebiil2, Yvb1!","Hello2, Bye1!","Byffi2,",Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,N1x2W3b4A@z!Z$o*CS,Q1a2Z3e4D@c!C$r*FV,K1u2T3y4X@w!W$l*ZP,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\LightExS_11_18.12.2023_05.57.49_1284_B_1.py,Rd%,Ug%,Oa%,Failed,"I would rate this code a 7.
+
+The code appears to be taking an input string and performing a Caesar cipher with a shift of 3 on each character. The implementation looks correct and follows standard conventions. The code is clear and easy to understand.
+
+However, there is room for improvement. The variable names could be more descriptive and meaningful. Additionally, there are repeated calculations of `ord(""A"")` and `ord(""a"")` which could be extracted to variables for better efficiency.
+
+Overall, the code is functional and effective, but could benefit from some minor refinements."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,"Ebiil, jv kxjb fp Slsx. F ifsb fk Ilkalk","Hello, my name is Vova. I live in London","Byffi,",Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,QQ5%QQ	,TT5%TT,NN5%NN,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,****,****,****,Passed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,1+2=3,1+2=3,1+2=3,Passed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,u+2v=4,x+2y=4,r+2s=4,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,x yllh lo lqebo tofqqbk lo mofkqba tloh,a book or other written or printed work,u,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,"Qbuq jbppxdfkd, lo qbuqfkd, fp qeb xzq","Text messaging, or texting, is the act",Nyrn,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,"Ebiil2, Yvb1!","Hello2, Bye1!","Byffi2,",Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,N1x2W3b4A@z!Z$o*CS,Q1a2Z3e4D@c!C$r*FV,K1u2T3y4X@w!W$l*ZP,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\xeanoff_11_18.12.2023_05.40.36_1277_B_1.py,Rd%,Ug%,Oa%,Failed,"8
+
+The code efficiently decrypts the input string by shifting each alphabetic character three places back in the alphabet. It correctly handles uppercase and lowercase characters and preserves non-alphabetic characters. The variable names are descriptive, and the code is easy to understand. However, there could be some improvements in terms of code organization and readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,"Ebiil, jv kxjb fp Slsx. F ifsb fk Ilkalk","Hello, my name is Vova. I live in London","Byffi,",Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,QQ5%QQ	,TT5%TT,NN5%NN,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,****,****,****,Passed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,1+2=3,1+2=3,1+2=3,Passed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,u+2v=4,x+2y=4,r+2s=4,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,x yllh lo lqebo tofqqbk lo mofkqba tloh,a book or other written or printed work,u,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,"Qbuq jbppxdfkd, lo qbuqfkd, fp qeb xzq","Text messaging, or texting, is the act",Nyrn,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,"Ebiil2, Yvb1!","Hello2, Bye1!","Byffi2,",Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,N1x2W3b4A@z!Z$o*CS,Q1a2Z3e4D@c!C$r*FV,K1u2T3y4X@w!W$l*ZP,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\B\Solutions\YouSwe_11_18.12.2023_05.20.22_1273_B_1.py,Rd%,Ug%,Oa%,Failed,"8
+
+The code implements a Caesar cipher decryption algorithm. It takes an encrypted text as input and decrypts it using a shift of 3 positions. The decrypted text is then printed. The code uses list comprehension and conditional statements to handle different cases (lowercase and uppercase letters) and maintain the original case of the characters. The code is concise and efficient, but could benefit from some comments to improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,abcd,24,24,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,a,1,1,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,abbc,12,12,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,ohho,6,6,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,abcdefg,5040,5040,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,aqqqqa,15,15,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,aabbccdd,2520,2520,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,ybkybk,90,90,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,olympiada,181440,181440,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Denys_11_18.12.2023_05.24.52_1274_C_1.py,aaabbc,60,60,Passed,"8
+The code efficiently uses the `itertools` module to generate all possible permutations of a given input string. It then calculates the length of the set of permutations to determine the number of unique permutations. The code is concise and effective in achieving its purpose. However, it could benefit from some comments to explain its functionality and improve readability."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,abcd,24,24,Passed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,a,1,1,Passed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,abbc,12,24,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,ohho,6,24,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,abcdefg,5040,5040,Passed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,aqqqqa,15,720,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,aabbccdd,2520,40320,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,ybkybk,90,720,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,olympiada,181440,362880,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\Grade_11_18.12.2023_05.18.29_1272_C_1.py,aaabbc,60,720,Failed,"8
+
+The code is concise and straightforward, using the math module to calculate the factorial of the length of the input string. However, it lacks error handling for invalid inputs and could benefit from some comments to explain the purpose of the code."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,abcd,24,24,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,a,1,1,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,abbc,12,12,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,ohho,6,6,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,abcdefg,5040,5040,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,aqqqqa,15,15,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,aabbccdd,2520,2520,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,ybkybk,90,90,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,olympiada,181440,181440,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\LightExS_11_18.12.2023_05.58.02_1285_C_1.py,aaabbc,60,60,Passed,"I would rate this code a 8.
+
+The code uses the math library to calculate permutations. It first checks if the input string consists of only uppercase or lowercase letters. Then, it counts the occurrences of each character in the string using a dictionary. Finally, it calculates the total number of permutations based on the character counts and prints the result.
+
+The code is well-organized and uses clear variable names. It also handles cases where the input string is not valid. However, it could benefit from additional comments to explain the logic behind certain steps."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,abcd,24,24,Passed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,a,1,1,Passed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,abbc,12,6,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,ohho,6,2,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,abcdefg,5040,5040,Passed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,aqqqqa,15,2,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,aabbccdd,2520,24,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,ybkybk,90,6,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,olympiada,181440,40320,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\xeanoff_11_18.12.2023_06.05.12_1288_C_1.py,aaabbc,60,6,Failed,"8
+
+The code is well-structured and readable. It correctly imports the necessary module and takes input from the user. The loop efficiently adds unique elements from the input to the result list. Finally, it calculates the factorial of the length of the result list. The code could be further improved by adding some error handling for invalid input, but overall it is a solid implementation."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,abcd,24,24,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,a,1,1,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,abbc,12,12,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,ohho,6,6,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,abcdefg,5040,5040,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,aqqqqa,15,15,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,aabbccdd,2520,2520,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,ybkybk,90,90,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,olympiada,181440,181440,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\C\Solutions\YouSwe_11_18.12.2023_05.13.57_1269_C_1.py,aaabbc,60,60,Passed,"6/10
+
+The code is concise and makes use of the `itertools.permutations` function to generate all permutations of a given string. The use of `set` to remove duplicates and `len` to determine the number of unique permutations is also efficient.
+
+However, the code lacks proper error handling for user input and could benefit from adding some prompts or instructions for the user. Additionally, the use of a single-letter variable name (`p`) makes the code slightly less readable."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,37 99 95 48 95,34,38,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,98 67 89 93 63 50 98,51,99,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,87 59 45 90 92 55 33 41 27 32 57 50 85 71 10,11,88,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,14 60 81 77 53 46 76 95 75 19 60 93,10,15,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,83 69 63 27 63 42 43 64 41 64 80,7,84,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,57 57 49 92 86 79 87 90 62,24,58,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,41 30 73 81 54 38 24 20 95,19,42,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,82 74 75 65 73 78 37 36 50,33,83,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,62 30 47 61 80 87 63 94 77 55 43 73,14,63,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\LightExS_11_18.12.2023_05.58.12_1286_D_1.py,47 44 48 47 38 48 43 36 40 45 48 47,34,48,Failed,"I would rate this code a 6.
+
+The code is readable and follows PEP 8 naming conventions. The logic is also clear and easy to understand. 
+
+However, there are a few areas for improvement. The code could benefit from more descriptive variable names and comments to explain the purpose of certain actions. Additionally, there is no input validation to ensure that the input consists of valid integers. 
+
+Overall, the code is functional and effective, but could use some improvements in terms of readability and robustness."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,37 99 95 48 95,34,38,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,98 67 89 93 63 50 98,51,99,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,87 59 45 90 92 55 33 41 27 32 57 50 85 71 10,11,88,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,14 60 81 77 53 46 76 95 75 19 60 93,10,15,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,83 69 63 27 63 42 43 64 41 64 80,7,84,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,57 57 49 92 86 79 87 90 62,24,58,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,41 30 73 81 54 38 24 20 95,19,42,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,82 74 75 65 73 78 37 36 50,33,83,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,62 30 47 61 80 87 63 94 77 55 43 73,14,63,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."
+UserFiles\11\D\Solutions\YouSwe_11_18.12.2023_05.55.25_1281_D_1.py,47 44 48 47 38 48 43 36 40 45 48 47,34,48,Failed,"I would rate this code a 7.
+
+The code is well-structured and easy to read. The function names are descriptive, and the code is divided into logical sections. The use of list comprehension in the `lower_layer` function is concise and efficient.
+
+However, there are a few improvements that could be made. The lack of comments makes it difficult to understand the purpose of each section of code. Adding comments would greatly improve the code's readability.
+
+Additionally, the code could benefit from some input validation. Currently, it does not check if the input is valid or if the input list is empty. Adding some input validation would make the code more robust.
+
+Overall, the code is solid and functional, but could use some additional improvements for clarity and input validation."

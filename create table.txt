@@ -1,0 +1,8 @@
+CREATE TABLE ReportTable (
+    FileName NVARCHAR(MAX),
+    InputParams NVARCHAR(MAX),
+    ExpectedResult NVARCHAR(MAX),
+    ActualResult NVARCHAR(MAX),
+    Status NVARCHAR(MAX),
+    AI_Rating NVARCHAR(MAX)
+);

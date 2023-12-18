@@ -1,0 +1,117 @@
+File Name,Input Parameters,Expected Result,Actual Result,Status,AI Rate
+UserFiles\A\Solutions\Etalon.exe,100 20,80,"80
+",Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\Etalon.exe,85 1,84,"84
+",Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\Etalon.exe,-5 20,-25,"-25
+",Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant2_A(1).py,100 20,80,84,Failed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant2_A(1).py,85 1,84,84,Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant2_A(1).py,-5 20,-25,84,Failed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant3_A(1).py,100 20,80,80,Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant3_A(1).py,85 1,84,84,Passed,rate_code(read_file(solution_file))
+UserFiles\A\Solutions\variant3_A(1).py,-5 20,-25,-25,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"2
+Repeat",Repeat Repeat,Repeat Repeat,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"0
+Repeat",,,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"1
+Repeat",Repeat,Repeat,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"3
+Repeat",Repeat Repeat Repeat,Repeat Repeat Repeat,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant2_B(1).py,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Repeat Repeat Repeat Repeat Repeat,Passed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"2
+Repeat",Repeat Repeat,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"0
+Repeat",,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"1
+Repeat",Repeat,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"3
+Repeat",Repeat Repeat Repeat,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\B\Solutions\variant3_B(1).py,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Error: name 'phrase' is not defined,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"99
+98",197,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"22
+9",31,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"321
+279",600,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"111
+222",333,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"18
+4",22,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"0
+0",0,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant2_C(1).py,"0
+1",1,"Error: not enough values to unpack (expected 2, got 1)",Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"99
+98",197,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"22
+9",31,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"321
+279",600,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"111
+222",333,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"18
+4",22,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"0
+0",0,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\C\Solutions\variant3_C(1).py,"0
+1",1,Error: mock_input() takes 0 positional arguments but 1 was given,Failed,rate_code(read_file(solution_file))
+UserFiles\D\Solutions\variant2_D(1).py,65535,65 535,65 535,Passed,rate_code(read_file(solution_file))
+UserFiles\D\Solutions\variant2_D(1).py,2147483647,2147483 647,2147483 647,Passed,rate_code(read_file(solution_file))
+UserFiles\D\Solutions\variant4_D(1).py,65535,65 535,65 535,Passed,rate_code(read_file(solution_file))
+UserFiles\D\Solutions\variant4_D(1).py,2147483647,2147483 647,2147483 647,Passed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E(1).exe,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E(1).exe,"0 0
+",,,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E(1).exe,"4 1
+1
+2
+3
+4",1 2 3 4,,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E.exe,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E.exe,"0 0
+",,,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant3_E.exe,"4 1
+1
+2
+3
+4",1 2 3 4,,Error,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant1_E(1).py,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",Error: list index out of range,Failed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant1_E(1).py,"0 0
+",,,Passed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant1_E(1).py,"4 1
+1
+2
+3
+4",1 2 3 4,Error: list index out of range,Failed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant2_E(1).py,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",Error: list index out of range,Failed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant2_E(1).py,"0 0
+",,,Passed,rate_code(read_file(solution_file))
+UserFiles\E\Solutions\variant2_E(1).py,"4 1
+1
+2
+3
+4",1 2 3 4,Error: list index out of range,Failed,rate_code(read_file(solution_file))

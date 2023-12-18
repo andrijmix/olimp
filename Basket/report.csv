@@ -1,0 +1,192 @@
+File Name,Input Parameters,Expected Result,Actual Result,Status,AI Rate
+UserFiles\11\A\Solutions\Andi_11_andi_5_28.03.2023_11.08.31_A(2).exe,100 20,80,80,Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\Andi_11_andi_5_28.03.2023_11.08.31_A(2).exe,85 1,84,84,Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\Andi_11_andi_5_28.03.2023_11.08.31_A(2).exe,-5 20,-25,-25,Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\cathwatch_5_28.03.2023_11.08.40_A(1).exe,100 20,80,"80
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\cathwatch_5_28.03.2023_11.08.40_A(1).exe,85 1,84,"84
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\cathwatch_5_28.03.2023_11.08.40_A(1).exe,-5 20,-25,"-25
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\Holovko1_5_28.03.2023_11.14.02_A(3).exe,100 20,80,"80
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\Holovko1_5_28.03.2023_11.14.02_A(3).exe,85 1,84,"84
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\Holovko1_5_28.03.2023_11.14.02_A(3).exe,-5 20,-25,"-25
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\aernjdz_5_28.03.2023_11.25.45_A(1).py,100 20,80,80,Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\aernjdz_5_28.03.2023_11.25.45_A(1).py,85 1,84,84,Passed, rate_code(read_file(solution_file))
+UserFiles\11\A\Solutions\aernjdz_5_28.03.2023_11.25.45_A(1).py,-5 20,-25,-25,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"2
+Repeat",Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"0
+Repeat",,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"1
+Repeat",Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"3
+Repeat",Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\cathwatch_5_28.03.2023_11.16.38_B(1).exe,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"2
+Repeat",Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"0
+Repeat",,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"1
+Repeat",Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"3
+Repeat",Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\Faren_5_28.03.2023_11.10.10_B(1).exe,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"2
+Repeat",Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"0
+Repeat",,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"1
+Repeat",Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"3
+Repeat",Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\hatesharp_5_28.03.2023_11.12.59_B(1).exe,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Error converting string to integer: invalid literal for int() with base 10: 'Repeat',Error, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"2
+Repeat",Repeat Repeat,Repeat Repeat,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"0
+Repeat",,,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"14
+Repeat",Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat Repeat,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"1
+Repeat",Repeat,Repeat,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"3
+Repeat",Repeat Repeat Repeat,Repeat Repeat Repeat,Passed, rate_code(read_file(solution_file))
+UserFiles\11\B\Solutions\RichyCey_5_28.03.2023_11.16.31_B(1).py,"5
+Repeat",Repeat Repeat Repeat Repeat Repeat,Repeat Repeat Repeat Repeat Repeat,Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"99
+98",197,"197
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"22
+9",31,"31
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"321
+279",600,"600
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"111
+222",333,"333
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"18
+4",22,"22
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"0
+0",0,"0
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\cathwatch_5_28.03.2023_11.17.26_C(1).exe,"0
+1",1,"1
+",Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"99
+98",197,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"22
+9",31,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"321
+279",600,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"111
+222",333,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"18
+4",22,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"0
+0",0,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\hatesharp_5_28.03.2023_11.29.24_C(1).exe,"0
+1",1,"Error: РќРµРІРµСЂРЅС‹Р№ РґРµСЃРєСЂРёРїС‚РѕСЂ.
+
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"99
+98",197,197,Passed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"22
+9",31,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"321
+279",600,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"111
+222",333,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"18
+4",22,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"0
+0",0,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\Only_win_5_28.03.2023_11.26.20_C(2).py,"0
+1",1,197,Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"99
+98",197,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"22
+9",31,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"321
+279",600,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"111
+222",333,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"18
+4",22,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"0
+0",0,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\C\Solutions\RichyCey_5_28.03.2023_11.16.48_C(1).py,"0
+1",1,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\cathwatch_5_28.03.2023_11.28.41_D(1).exe,65535,65 535,65 535,Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\cathwatch_5_28.03.2023_11.28.41_D(1).exe,2147483647,2147483 647,2147483 647,Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\Faren_5_28.03.2023_11.26.40_D(1).exe,65535,65 535,"Enter grams: 65 535g
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\Faren_5_28.03.2023_11.26.40_D(1).exe,2147483647,2147483 647,"Enter grams: 2147483 647g
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\Pavlushka_5_28.03.2023_11.11.58_D(2).exe,65535,65 535,"65 535
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\Pavlushka_5_28.03.2023_11.11.58_D(2).exe,2147483647,2147483 647,"2147483 647
+",Error, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\RichyCey_5_28.03.2023_11.17.02_D(1).py,65535,65 535,65 535,Passed, rate_code(read_file(solution_file))
+UserFiles\11\D\Solutions\RichyCey_5_28.03.2023_11.17.02_D(1).py,2147483647,2147483 647,2147483 647,Passed, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\AlexVorob_5_28.03.2023_11.28.25_E(1).exe,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\AlexVorob_5_28.03.2023_11.28.25_E(1).exe,"0 0
+",,,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\AlexVorob_5_28.03.2023_11.28.25_E(1).exe,"4 1
+1
+2
+3
+4",1 2 3 4,,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\Vladadmin2222_5_28.03.2023_11.09.16_E(1).exe,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",Enter the sizes: Enter the element in row: ,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\Vladadmin2222_5_28.03.2023_11.09.16_E(1).exe,"0 0
+",,Enter the sizes: ,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\Vladadmin2222_5_28.03.2023_11.09.16_E(1).exe,"4 1
+1
+2
+3
+4",1 2 3 4,Enter the sizes: Enter the element in row: ,Error, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\YouSwee_5_28.03.2023_11.10.39_E(1).py,"2 3
+1 0 1
+2 3 2","1 2
+0 3
+1 2",mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\YouSwee_5_28.03.2023_11.10.39_E(1).py,"0 0
+",,,Passed, rate_code(read_file(solution_file))
+UserFiles\11\E\Solutions\YouSwee_5_28.03.2023_11.10.39_E(1).py,"4 1
+1
+2
+3
+4",1 2 3 4,mock_input() missing 1 required positional argument: 'prompt',Failed, rate_code(read_file(solution_file))

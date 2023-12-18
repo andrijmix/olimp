@@ -1,0 +1,2 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\cl.exe" C:\Users\andri\PycharmProjects\olimp\UserFiles\11\A\Solutions\Quant_11_18.12.2023_05.27.05_1275_A_1.cpp
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\cl.exe" C:\Users\andri\PycharmProjects\olimp\UserFiles\11\A\Solutions\vitvit_11_18.12.2023_05.47.49_1279_A_1.cpp

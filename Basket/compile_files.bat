@@ -1,0 +1,9 @@
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\A\Etalon.pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\A\Solutions\variant1_A(1).pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\A\Solutions\variant1_A(2).pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\B\Etalon.pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\B\Solutions\variant1_B(1).pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\C\Etalon.pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\C\Solutions\variant1_C(1).pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\D\Etalon.pas
+"C:\Users\Andrii\PycharmProjects\olimpiada\compiler\pascal\pabcnetc.exe" C:\Users\Andrii\PycharmProjects\olimpiada\UserFiles\D\Solutions\variant1_D(1).pas
